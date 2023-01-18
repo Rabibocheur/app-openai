@@ -1,0 +1,7 @@
+{
+  "name": "app-assistance",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "custom"
+}
